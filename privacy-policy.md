@@ -24,6 +24,6 @@ kurã is a minimalistic app that acts as a remote playlist manager for Spotify. 
 - kurã is distributed through Google Play, which uses Google Play Protect to scan apps for security. Google may collect data as per their privacy policy (https://policies.google.com/privacy).
 
 ## Contact:
-- For questions, contact us at [your email].
+- For questions, contact us at [vytautaskuk@gmail.com].
 
 By using kurã, you agree to this privacy policy.
